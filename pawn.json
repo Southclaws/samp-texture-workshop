@@ -1,0 +1,13 @@
+{
+    "user": "Southclaws",
+    "repo": "samp-texture-workshop",
+    "entry": "texture-workshop.pwn",
+    "output": "texture-workshop.amx",
+    "dependencies": [
+        "Southclaws/samp-stdlib",
+        "Zeex/amx_assembly",
+        "Misiur/YSI-Includes",
+        "maddinat0r/sscanf",
+        "Southclaws/zcmd"
+    ]
+}
